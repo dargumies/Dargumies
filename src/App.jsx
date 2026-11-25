@@ -423,7 +423,6 @@ export default function App() {
                 </article>
               ))}
             </div>
-            <p className="note">{t.boostyNote}</p>
           </div>
         </section>
 
@@ -463,10 +462,9 @@ export default function App() {
               )}
               <ul className="socials">
                 <li><span>Telegram</span><a href="https://t.me/dargumies">@dargumies</a></li>
-                <li><span>Discord</span><b>dargumies</b></li>
+                <li><span>Discord</span><b>@ejswh</b></li>
                 <li><span>GitHub</span><a href="https://github.com/dargumies">github.com/dargumies</a></li>
               </ul>
-              <p className="note">{t.stub}</p>
             </div>
           </div>
           <footer className="foot"><span>© 2026 Dargumies</span><span>{t.made}</span></footer>

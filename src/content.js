@@ -27,7 +27,7 @@ export const T = {
     helpTetris: 'A/D или ← → двигать, W/↑ поворот, S/↓ вниз, пробел бросок', helpSnake: 'WASD, стрелки или крестовина: собирай снежинки', consoleLabel: 'Игровая консоль',
     worldsLabel: 'Измерение', worldsHint: 'Листай, чтобы прыгнуть в следующий мир',
     dims: ['Мир магии', 'Веб-измерение', 'Игровой мир', 'Мир данных', 'Мир ботов'],
-    boostyTitle: 'Поддержать на Boosty', boostySub: 'Закрытые исходники, разборы плагинов и ранний доступ к играм. Уровни и цены ниже пока заглушки.',
+    boostyTitle: 'Поддержать на Boosty', boostySub: 'Закрытые исходники, разборы плагинов и ранний доступ к играм.',
     tiers: [
       { n: 'Снежинка', p: '100 ₽ / мес', f: ['Имя в титрах проектов', 'Доступ к закрытому чату'] },
       { n: 'Сугроб', p: '300 ₽ / мес', f: ['Всё из «Снежинки»', 'Исходники плагинов и ботов', 'Разборы кода раз в месяц'] },
@@ -98,7 +98,7 @@ export const T = {
     helpTetris: 'A/D or ← → move, W/↑ rotate, S/↓ down, space drop', helpSnake: 'WASD, arrows or d-pad: collect snowflakes', consoleLabel: 'Game console',
     worldsLabel: 'Dimension', worldsHint: 'Scroll to jump to the next world',
     dims: ['World of magic', 'Web dimension', 'Game world', 'Data world', 'Bot world'],
-    boostyTitle: 'Support on Boosty', boostySub: 'Private source code, plugin breakdowns and early access to games. The tiers and prices below are placeholders.',
+    boostyTitle: 'Support on Boosty', boostySub: 'Private source code, plugin breakdowns and early access to games.',
     tiers: [
       { n: 'Snowflake', p: '100 ₽ / mo', f: ['Your name in project credits', 'Access to the private chat'] },
       { n: 'Snowdrift', p: '300 ₽ / mo', f: ['Everything in Snowflake', 'Plugin and bot source code', 'Monthly code breakdowns'] },
